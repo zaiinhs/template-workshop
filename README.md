@@ -1,1 +1,1 @@
-# html-css-workshop
+# template-workshop
